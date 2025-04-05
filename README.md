@@ -1,1 +1,1 @@
-# alternatives-of-styled-components
+# alternatives of `styled-components`
